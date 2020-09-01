@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "罪人的受苦是受造秩序之完美的一部分"
+title: "孙晓明:罪人的受苦是受造秩序之完美的一部分"
 subtitle: '论自由意志笔记'
-author: "sxm"
+author: "孙晓明"
 header-style: text
 tags:
   - 圣经
