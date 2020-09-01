@@ -2,7 +2,7 @@
 layout: post
 title: "顺服掌权者"
 subtitle: '罗马书13章'
-author: "xx"
+author: "任不寐"
 header-style: text
 tags:
   - 圣经
