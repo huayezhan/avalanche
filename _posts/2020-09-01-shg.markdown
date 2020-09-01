@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "孙宏广:神学思想录"
-subtitle: '金句'
+subtitle: ''
 author: "孙宏广"
 header-style: text
 tags:
