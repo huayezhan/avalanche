@@ -7,6 +7,7 @@ header-style: text
 tags:
   - 圣经
   - 神学
+  - 陳韋安
 ---
 前陣子看書，看到瑞士文學家 Max Frisch 一句非常了不起的說話：
 
