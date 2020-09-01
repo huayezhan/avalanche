@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "陳韋安:對同性戀議題的七個命題"
-subtitle: ''
+subtitle: '2014.05.21'
 author: "陳韋安"
 header-style: text
 tags:

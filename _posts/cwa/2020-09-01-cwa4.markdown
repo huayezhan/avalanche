@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "陳韋安:有关同性恋"
-subtitle: ''
+subtitle: '2015.03.20'
 author: "陳韋安"
 header-style: text
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "陳韋安:不割席的神学反省"
-subtitle: ''
+subtitle: '2020.03.17'
 author: "陳韋安"
 header-style: text
 tags:
