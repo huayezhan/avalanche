@@ -5,8 +5,6 @@ subtitle: '论自由意志笔记'
 author: "孙晓明"
 header-style: text
 tags:
-  - 圣经
-  - 哲学
   - 孙晓明
 ---
 ### 卷三，九，罪人的受苦是受造秩序之完美的一部分(1)

@@ -5,8 +5,6 @@ subtitle: ''
 author: "陳韋安"
 header-style: text
 tags:
-  - 圣经
-  - 神学
   - 陳韋安
 ---
 
