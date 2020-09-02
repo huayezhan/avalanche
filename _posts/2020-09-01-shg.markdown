@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙宏广:神学思想录"
+title: "孙宏广 | 神学思想录"
 subtitle: ''
 author: "孙宏广"
 header-style: text

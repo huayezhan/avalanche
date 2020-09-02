@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陳韋安:基督徒，不阅读"
+title: "陳韋安 | 基督徒，不阅读"
 subtitle: '2015.09.09'
 author: "陳韋安"
 header-style: text

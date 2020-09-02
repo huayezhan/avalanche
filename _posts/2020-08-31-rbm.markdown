@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "任不寐:顺服掌权者"
+title: "任不寐 | 顺服掌权者"
 subtitle: '罗马书13章'
 author: "任不寐"
 header-style: text

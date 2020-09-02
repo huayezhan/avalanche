@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙晓明:随想录"
+title: "孙晓明 | 随想录"
 subtitle: '论自由意志随想录'
 author: "孙晓明"
 header-style: text

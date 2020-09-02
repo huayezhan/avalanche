@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陳韋安:受難節默想〈十字架，很討厭〉"
+title: "陳韋安 | 受難節默想〈十字架，很討厭〉"
 subtitle: '2020.04.10'
 author: "陳韋安"
 header-style: text

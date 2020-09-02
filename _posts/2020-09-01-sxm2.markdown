@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙晓明:读书笔记"
+title: "孙晓明 | 读书笔记"
 subtitle: '论自由意志读书笔记'
 author: "孙晓明"
 header-style: text
