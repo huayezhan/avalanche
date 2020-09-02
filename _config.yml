@@ -82,7 +82,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "伸冤在主,主必报应。"
-#sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/zhy.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
