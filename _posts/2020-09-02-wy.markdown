@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "王怡:"
-subtitle: ''
+title: "王怡 | 基督徒应该成为爱国者吗？"
+subtitle: '20130423'
 author: "王怡"
 header-style: text
 tags:
