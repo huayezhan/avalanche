@@ -2,7 +2,7 @@
 layout: post
 title: "系统神学和历史神学——无足轻重之学科？（上）"
 subtitle: ''
-author: " 若水漫海"
+author: " 若水漫海Frank"
 header-style: text
 tags:
   - 极简系统神学
