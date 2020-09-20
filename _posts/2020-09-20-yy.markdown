@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "什么是神学？有何价值？科目有哪些？"
+title: "从自由主义者到基督徒"
 subtitle: ''
-author: " 若水漫海Frank"
+author: "叶隐"
 header-style: text
 tags:
-  - 极简系统神学
+  - 叶隐
 ---
 从自由主义者到基督徒 
 
