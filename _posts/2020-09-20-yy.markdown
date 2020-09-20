@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从自由主义者到基督徒"
+title: "叶隐 | 从自由主义者到基督徒"
 subtitle: ''
 author: "叶隐"
 header-style: text
